@@ -1,0 +1,9 @@
+<?php
+     $arr = array('name'=>'jj',
+                  'sex'=>'male',
+                  'age'=>'13');
+     echo "<pre>";
+     print_r($arr);
+     echo "</pre>";
+     echo 'my name is.$arr[name].',I'm.$arr[age].years old.;
+?>
